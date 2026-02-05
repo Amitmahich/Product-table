@@ -53,6 +53,6 @@ Deployed URL:
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/product-table.git
+git clone https://github.com/Amitmahich/Product-table.git
 
  
