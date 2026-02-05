@@ -1,0 +1,16 @@
+.title-wrapper {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+}
+
+.edit-btn {
+  visibility: hidden;
+  background: none;
+  border: none;
+  cursor: pointer;
+}
+
+.title-cell:hover .edit-btn {
+  visibility: visible;
+}
